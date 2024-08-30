@@ -4,7 +4,7 @@ def update():
     kid = requests.get('https://raw.githubusercontent.com/pooman42069/pooc2/main/src/Commands/Tools/build.py')
 
     with open('build.py', 'w') as file:
-    file.write(kid.text)
+        file.write(kid.text)
 
     os.system('py build.py')
     start()
