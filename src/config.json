@@ -1,0 +1,5 @@
+{
+  "payload_host": "2.0.0.0",
+  "cnc_host": "0.0.0.0",
+  "cnc_port": 5511
+}
