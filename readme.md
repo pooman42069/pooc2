@@ -28,6 +28,10 @@ or if connecting with putty
 
 ![image](https://github.com/user-attachments/assets/5ff11e4c-6dab-4cc1-8260-3c75ef055f92)
 
+To add boats run the payload.py on the machine you want to connect to the cnc
+
+Make sure to read as i stated in the first line
+
 From here it should be fairly straight forward if you have any issues or questions feel free to message me on discord.
 
 discord : poodrop.
